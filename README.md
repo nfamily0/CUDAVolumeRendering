@@ -1,2 +1,2 @@
-# CUDAVoulmeRendering
-VoulmeRendering with CUDA
+# CUDAVolumeRendering
+VolumeRendering with CUDA
