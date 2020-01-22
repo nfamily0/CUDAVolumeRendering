@@ -1,2 +1,0 @@
-# CUDAVolumeRendering
-VolumeRendering with CUDA
